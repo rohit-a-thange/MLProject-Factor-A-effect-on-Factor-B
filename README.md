@@ -1,4 +1,5 @@
 ## End to End Machine Learning Project
+The project show the correlation of Parents education on students marks.
 
 Self notes:
 Usually, there are mixed features (categorical & numerical) in a dataset.
